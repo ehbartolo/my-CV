@@ -1,43 +1,54 @@
-/*
-TAG Selectors
-*/
 body {
-	background-color: #e4f9f5;
+	margin: 0px;
+	text-align: center;
+	font-family: 'Merriweather Sans', sans-serif;
 }
-hr {
-	border-style:dotted none none;
-	border-color: grey;
-	border-width: 5px;
-	width: 5%;
-}
+
 h1 {
-  color: #11999e;
+	width: 40%;
+	margin: 0 auto;
+	font-family: 'Sacramento', cursive;
 }
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
 h3 {
-  color: #11999e;
-}
-img:hover {
-  background-color: #11999e;
-  border-radius: 100%;
+	font-family: 'Montserrat', sans-serif;
 }
 
-/*
-Class Selectors
-*/
-.icon1 {
-	background-color: red;
-}
-.icon2 {
-	background-color: blue;
-}
-.circular{
-	border-radius: 100%;
+.top-container {
+	background-color:#e4f9f5;
+	padding-top: 100px;
+	position: relative;
 }
 
-/*
-ID Selectors
-*/
-#heading {
-	color : red;
+.middle-container {
 
+}
+
+.bottom-container {
+}
+
+.pro {
+	text-decoration: underline;
+}
+
+.top-cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+
+.center {
+	margin-left: auto;
+    margin-right: auto;
 }
