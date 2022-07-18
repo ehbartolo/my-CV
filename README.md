@@ -1,2 +1,2 @@
 # my-CV
-my CV using HTML
+my CV using HTML and CSS
