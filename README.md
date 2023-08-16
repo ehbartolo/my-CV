@@ -1,5 +1,5 @@
-# my-CV
+# MY CV
 My Curriculum Vitae using HTML and CSS
 
 Asses the site here:
-https://ehbartolo.github.io/my-CV/
+<a href="https://ehbartolo.github.io/my-CV/">MY CV</a>
